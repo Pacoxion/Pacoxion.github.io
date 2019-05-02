@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F05%2F01%2Ftest%2F</url>
-    <content type="text"><![CDATA[123]]></content>
-      <categories>
-        <category>12</category>
-      </categories>
-      <tags>
-        <tag>12</tag>
-      </tags>
+    <title><![CDATA[电机学]]></title>
+    <url>%2F2019%2F05%2F02%2F%E7%94%B5%E6%9C%BA%E5%AD%A6-1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[电机学]]></title>
+    <url>%2F2019%2F05%2F02%2F%E7%94%B5%E6%9C%BA%E5%AD%A6%2F</url>
+    <content type="text"></content>
   </entry>
 </search>
