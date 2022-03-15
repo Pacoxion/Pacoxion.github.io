@@ -872,6 +872,7 @@ pre code {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  z-index: 5;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs,
@@ -2526,7 +2527,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff37b8;
+  background: #265eff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
